@@ -1,0 +1,6 @@
+@RecriancaFront.Server_HostAddress = http://localhost:5103
+
+GET {{RecriancaFront.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

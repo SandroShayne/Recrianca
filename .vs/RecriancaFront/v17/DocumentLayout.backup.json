@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|c:\\users\\sdutra\\documents\\recriancafront\\recriancafront.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|solutionrelative:recriancafront.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|c:\\users\\sdutra\\documents\\recriancafront\\recriancafront.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|solutionrelative:recriancafront.server\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|c:\\users\\sdutra\\documents\\recriancafront\\recriancafront.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|solutionrelative:recriancafront.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|c:\\users\\sdutra\\documents\\recriancafront\\recriancafront.server\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{961E01C2-1772-4DCC-98AA-F4308C9FC8AF}|RecriancaFront.Server\\RecriancaFront.Server.csproj|solutionrelative:recriancafront.server\\models\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\Program.cs",
+              "RelativeDocumentMoniker": "RecriancaFront.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\Program.cs",
+              "RelativeToolTip": "RecriancaFront.Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:22:58.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "RecriancaFront.Server\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\appsettings.Development.json",
+              "RelativeToolTip": "RecriancaFront.Server\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T20:22:48.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "RecriancaFront.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\appsettings.json",
+              "RelativeToolTip": "RecriancaFront.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T20:22:41.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "evento.cs",
+              "DocumentMoniker": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\Models\\evento.cs",
+              "RelativeDocumentMoniker": "RecriancaFront.Server\\Models\\evento.cs",
+              "ToolTip": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\Models\\evento.cs",
+              "RelativeToolTip": "RecriancaFront.Server\\Models\\evento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:22:25.448Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

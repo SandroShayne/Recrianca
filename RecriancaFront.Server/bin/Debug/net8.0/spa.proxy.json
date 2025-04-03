@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:51702",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\sdutra\\Documents\\RecriancaFront\\RecriancaFront.Server\\..\\recriancafront.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
